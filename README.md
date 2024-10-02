@@ -16,6 +16,7 @@ Sou um desenvolvedor iniciante apaixonado por **Engenharia de Software** e inter
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Inteligência Artificial](https://img.shields.io/badge/IA-Artificial%20Intelligence-blue?style=for-the-badge&logo=ai)
+![Computação Quântica](https://img.shields.io/badge/Computação%20Quântica-6A0DAD?style=for-the-badge)
 
 ## Projetos em Destaque
 - **[App de Pedidos de Vendas](https://github.com/ChrystianGarrido)**: Um aplicativo de vendas com cadastro de produtos e clientes, exportação de pedidos em PDF, e integração com serviços externos como Sintegra e Correios.
